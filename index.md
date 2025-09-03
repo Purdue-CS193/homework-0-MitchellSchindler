@@ -1,7 +1,8 @@
-## Welcome to GitHub Pages
-# Ok, apperantly it didn't let me edit laast time and instead created a copy of this file.
-# I hope it works this time!
-```clicking submit now```
+# Mitchell Schindler's First CS193 Homework
+Here's some things I like about this class:
+- It's easy
+- I'll learn how to use GitHub, the most confusing website I've ever used
+- We didn't have to come into class on Labor Day
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
